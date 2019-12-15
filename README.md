@@ -10,7 +10,7 @@
   3. 工作经验年限与工资的关系
   4. 城市与工资的关系
   5. 岗位要求的技能关键词的词频
-- https://github.com/397460848/51job-spider-and-data-analysis
+- 项目地址: https://github.com/397460848/51job-spider-and-data-analysis
 
 ### 项目内容
 
