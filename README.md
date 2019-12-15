@@ -17,15 +17,14 @@
    ![img](https://github.com/397460848/51job-spider-and-data-analysis/blob/master/images/%E5%9C%B0%E5%8C%BA%E8%81%8C%E4%BD%8D%E6%95%B0%E9%87%8F%E5%88%86%E5%B8%83%E5%9B%BE.png)
 
  2. 不同学历要求下的岗位数量分布
-
-      - 有一些岗位没有学历要求, 所以只有28000多条数据
+  - 有一些岗位没有学历要求, 所以只有28000多条数据
 
       ![img](https://github.com/397460848/51job-spider-and-data-analysis/blob/master/images/%E5%AD%A6%E5%8E%86%E8%81%8C%E4%BD%8D%E6%95%B0%E9%87%8F%E5%88%86%E5%B8%83%E5%9B%BE.jpg)
 
   3. 工作经验年限与工资的关系
-         - 所有的单位全部换算成了(元/月)
-         - 岗位的工资一般都是一个区间, 在该次分析中都是使用工资区间的下限*1.2来计算的, 我认为这样可以较为准确的反应出岗位的实际工资
-         - 使用箱型图可以比较好的忽略异常值, 反应出大体的工资情况
+  - 所有的单位全部换算成了(元/月)
+  - 岗位的工资一般都是一个区间, 在该次分析中都是使用工资区间的下限*1.2来计算的, 我认为这样可以较为准确的反应出岗位的实际工资
+  - 使用箱型图可以比较好的忽略异常值, 反应出大体的工资情况
 
       ![img](https://github.com/397460848/51job-spider-and-data-analysis/blob/master/images/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E9%AA%8C%E4%B8%8E%E5%B7%A5%E8%B5%84%E7%AE%B1%E5%9E%8B%E5%9B%BE.jpg)
 
