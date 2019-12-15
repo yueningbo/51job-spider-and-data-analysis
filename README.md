@@ -14,33 +14,33 @@
 
 1. 各城市的岗位数量分布
 
-   ![img](D:\git\爬虫\project\51job\images\地区职位数量分布图.png)
+   ![img](images\地区职位数量分布图.png)
 
    2. 不同学历要求下的岗位数量分布
 
       - 有一些岗位没有学历要求, 所以只有28000多条数据
 
-      ![img](D:\git\爬虫\project\51job\images\学历职位数量分布图.jpg)
+      ![img](images\学历职位数量分布图.jpg)
 
       3. 工作经验年限与工资的关系
          - 所有的单位全部换算成了(元/月)
          - 岗位的工资一般都是一个区间, 在该次分析中都是使用工资区间的下限*1.2来计算的, 我认为这样可以较为准确的反应出岗位的实际工资
          - 使用箱型图可以比较好的忽略异常值, 反应出大体的工资情况
 
-      ![img](D:\git\爬虫\project\51job\images\工作经验与工资箱型图.jpg)
+      ![img](images\工作经验与工资箱型图.jpg)
 
       4. 城市与工资的关系
          - 为了方便展示, 只统计了岗位最多的8个城市
 
-      ![img](D:\git\爬虫\project\51job\images\城市与工资箱型图.jpg)
+      ![img](images\城市与工资箱型图.jpg)
 
       5. 岗位要求的技能关键词的词云
 
-      ![img](D:\git\爬虫\project\51job\images\python技能词云图.jpg)
+      ![img](images\python技能词云图.jpg)
 
       - 词频统计如下, 大家可以观察一下哪些技能关键词是python岗位被提及较多的
 
-        ![img](D:\git\爬虫\project\51job\images\词频表.png)
+        ![img](images\词频表.png)
 
       
 
